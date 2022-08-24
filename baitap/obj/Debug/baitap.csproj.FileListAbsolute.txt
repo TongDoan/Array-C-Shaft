@@ -1,0 +1,8 @@
+D:\MenuObject\LTTQ\baitap\baitap\bin\Debug\baitap.exe.config
+D:\MenuObject\LTTQ\baitap\baitap\bin\Debug\baitap.exe
+D:\MenuObject\LTTQ\baitap\baitap\bin\Debug\baitap.pdb
+D:\MenuObject\LTTQ\baitap\baitap\obj\Debug\baitap.csproj.AssemblyReference.cache
+D:\MenuObject\LTTQ\baitap\baitap\obj\Debug\baitap.csproj.SuggestedBindingRedirects.cache
+D:\MenuObject\LTTQ\baitap\baitap\obj\Debug\baitap.csproj.CoreCompileInputs.cache
+D:\MenuObject\LTTQ\baitap\baitap\obj\Debug\baitap.exe
+D:\MenuObject\LTTQ\baitap\baitap\obj\Debug\baitap.pdb
